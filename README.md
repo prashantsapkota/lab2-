@@ -1,6 +1,17 @@
 # lab2-
 
 Lab 2 The layout editor
+
+his Lab Excercise Consist of the firt two lab.
+
+a)Your first interactive UI
+
+Create an app and add two Button elements and a TextView to the layout. Manipulate each element in the ConstraintLayout to constrain them to the margins and other elements. Change UI element attributes. Edit the app's layout in XML. Extract hardcoded strings into string resources. Implement click-handler methods to display messages on the screen when the user taps each Button
+
+b)The layout editor
+
+Create a layout variant for a horizontal display orientation. Create a layout variant for tablets and larger displays. Modify the layout to add constraints to the UI elements. Use ConstraintLayout baseline constraints to align elements with text. Use ConstraintLayout pack and align buttons to align elements. Change the layout to use LinearLayout. Position elements in a LinearLayout. Change the layout to use RelativeLayout. Rearrange the views in the main layout to be relative to each other.
+
 **Task 1: Create layout variants**
 
 ![image](https://user-images.githubusercontent.com/50863208/171566583-a7ba487e-590d-4203-905a-ae92b9f57979.png)
